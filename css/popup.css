@@ -1,0 +1,24 @@
+.vCenter ul {
+  width: 670px;
+}
+.vCenter ul li {
+  border: solid 1px #ccc;
+  border-collapse: collapse;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  width: 122px;
+  overflow-y: scroll;
+}
+.vCenter ul li p {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  width: 122px !important;
+  width: auto;
+  height: 92px !important;
+  height: auto;
+}
+.vCenter ul li p img {
+  border: solid 1px #fff;
+}
